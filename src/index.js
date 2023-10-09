@@ -4,7 +4,7 @@ import "./index.css";
 import App from "./App";
 import Navbar from "./components/Navbar";
 import UserProvider from "./storage/UserProvider";
-import GalleryProvider from "./storage/GalleryProvider";git
+import GalleryProvider from "./storage/GalleryProvider";
 import "bootstrap/dist/css/bootstrap.min.css";
 import { BrowserRouter } from "react-router-dom";
 
